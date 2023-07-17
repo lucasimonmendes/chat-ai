@@ -22,7 +22,7 @@ Siga as etapas abaixo para configurar o projeto em sua máquina local:
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd nome-do-repositorio
+   cd chat-ai
    ```
 
 3. Instale as dependências do projeto:
