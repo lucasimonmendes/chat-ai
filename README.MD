@@ -16,7 +16,7 @@ Siga as etapas abaixo para configurar o projeto em sua máquina local:
 1. Clone este repositório para o seu diretório de trabalho:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/lucasimonmendes/chat-ai
    ```
 
 2. Navegue até o diretório do projeto:
@@ -85,8 +85,3 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 
 6. Abra um pull request no repositório original.
 
-## Agradecimentos
-
-- [Next.js](https://nextjs.org/)
-- [OpenAI](https://openai.com/)
-- [Shadcn/UI](https://github.com/shadcn/ui)
